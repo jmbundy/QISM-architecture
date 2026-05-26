@@ -1,4 +1,4 @@
-# SQISM (Sovereign Quantum-Isolated Sovereign Market)
+# SQISM (State Quantum-Isolated Sovereign Market)
 ## Functional Specification & Operational Manifest
 **Pronounced:** *Schism* — A clean, structural break from centralized, legacy financial architectures.
 **Architect:** The Sovereign Collective
@@ -10,7 +10,6 @@
 ## 🚀 The Vision & Launchpad
 SQISM is a blueprint for an un-riggable, zero-contagion financial market architecture. Rather than relying on rigid rules or human compliance, SQISM uses **architectural physics** to enforce market integrity. By decoupling the static source of truth from temporary, isolated trading environments, systemic risk is mathematically dropped to absolute zero.
 
-*🎥 Watch the 5-Minute Architectural & Code Walkthrough here: [INSERT YOUR WALKTHROUGH LINK HERE]*
 
 ### 🤝 An Invitation to the Brain Trust
 This repository is a live launchpad, not a static textbook. The specifications, prototypes, and model states stored here are the real functional footprints used to simulate and prove these mechanics. 
