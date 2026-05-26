@@ -1,4 +1,4 @@
-# SQISM (State Quantum-Isolated Sovereign Market)
+# SQISM (Sovereign Quantum-Isolated Settlement Market)
 ## Functional Specification & Operational Manifest
 **Pronounced:** *Schism* — A clean, structural break from centralized, legacy financial architectures.
 **Architect:** The Sovereign Collective
